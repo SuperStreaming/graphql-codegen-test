@@ -1,0 +1,4 @@
+node_modules
+pnpm_node_modules
+npm_node_modules
+dist
